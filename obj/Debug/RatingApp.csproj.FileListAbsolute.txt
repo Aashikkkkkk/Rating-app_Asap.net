@@ -1,0 +1,39 @@
+C:\Users\user\OneDrive\Desktop\New folder\RatingApp\bin\Debug\RatingApp.exe.config
+C:\Users\user\OneDrive\Desktop\New folder\RatingApp\bin\Debug\RatingApp.exe
+C:\Users\user\OneDrive\Desktop\New folder\RatingApp\bin\Debug\RatingApp.pdb
+C:\Users\user\OneDrive\Desktop\New folder\RatingApp\obj\Debug\RatingApp.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\New folder\RatingApp\obj\Debug\RatingApp.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\New folder\RatingApp\obj\Debug\RatingApp.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\New folder\RatingApp\obj\Debug\RatingApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\New folder\RatingApp\obj\Debug\RatingApp.exe
+C:\Users\user\OneDrive\Desktop\New folder\RatingApp\obj\Debug\RatingApp.pdb
+C:\Users\user\OneDrive\Desktop\New folder\RatingApp\obj\Debug\RatingApp.Form1.resources
+C:\Users\user\OneDrive\Desktop\New folder\RatingApp\obj\Debug\RatingApp.Criteria.resources
+C:\Users\user\OneDrive\Desktop\New folder\RatingApp\obj\Debug\RatingApp.FeedbackForm.resources
+C:\Users\User\Desktop\RatingApp\bin\Debug\RatingApp.exe.config
+C:\Users\User\Desktop\RatingApp\bin\Debug\RatingApp.exe
+C:\Users\User\Desktop\RatingApp\bin\Debug\RatingApp.pdb
+C:\Users\User\Desktop\RatingApp\obj\Debug\RatingApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RatingApp\obj\Debug\RatingApp.Criteria.resources
+C:\Users\User\Desktop\RatingApp\obj\Debug\RatingApp.FeedbackForm.resources
+C:\Users\User\Desktop\RatingApp\obj\Debug\RatingApp.Form1.resources
+C:\Users\User\Desktop\RatingApp\obj\Debug\RatingApp.Properties.Resources.resources
+C:\Users\User\Desktop\RatingApp\obj\Debug\RatingApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RatingApp\obj\Debug\RatingApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RatingApp\obj\Debug\RatingApp.exe
+C:\Users\User\Desktop\RatingApp\obj\Debug\RatingApp.pdb
+C:\Users\User\Desktop\RatingApp\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\RatingApp\obj\Debug\RatingApp.csproj.CopyComplete
+D:\islington\Application development\RatingApp\bin\Debug\RatingApp.exe.config
+D:\islington\Application development\RatingApp\bin\Debug\RatingApp.exe
+D:\islington\Application development\RatingApp\bin\Debug\RatingApp.pdb
+D:\islington\Application development\RatingApp\obj\Debug\RatingApp.csprojAssemblyReference.cache
+D:\islington\Application development\RatingApp\obj\Debug\RatingApp.Criteria.resources
+D:\islington\Application development\RatingApp\obj\Debug\RatingApp.FeedbackForm.resources
+D:\islington\Application development\RatingApp\obj\Debug\RatingApp.Form1.resources
+D:\islington\Application development\RatingApp\obj\Debug\RatingApp.Properties.Resources.resources
+D:\islington\Application development\RatingApp\obj\Debug\RatingApp.csproj.GenerateResource.cache
+D:\islington\Application development\RatingApp\obj\Debug\RatingApp.csproj.CoreCompileInputs.cache
+D:\islington\Application development\RatingApp\obj\Debug\RatingApp.csproj.CopyComplete
+D:\islington\Application development\RatingApp\obj\Debug\RatingApp.exe
+D:\islington\Application development\RatingApp\obj\Debug\RatingApp.pdb
